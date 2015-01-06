@@ -1,0 +1,27 @@
+{
+  "name": "fs-schema",
+  "version": "0.0.1",
+  "description": "Node module to get a File System Schema to JSON",
+  "main": "fs-schema.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://bikashsharmabks@github.com/bikashsharmabks/fs-schema.git"
+  },
+  "keywords": [
+    "nodejs",
+    "file",
+    "system",
+    "folders",
+    "json",
+    "schema"
+  ],
+  "author": "Bikash Kumar Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bikashsharmabks/fs-schema/issues"
+  },
+  "homepage": "https://github.com/bikashsharmabks/fs-schema"
+}
